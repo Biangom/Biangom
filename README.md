@@ -1,4 +1,12 @@
 ### Hi there 👋
+안녕하세요. 김성식입니다.
+저는 주로 Android 개발을 하고 있습니다.
+그 외에도 백엔드, 프론트엔드 다룬 경험이 있습니다.
+
+다양한 기술을 활용하면서 실생활에 유용한 앱을 개발하고 싶습니다.
+
+감사합니다.
+
 
 <!--
 **Biangom/Biangom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
