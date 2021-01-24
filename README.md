@@ -12,7 +12,9 @@
 
 
 😄 Plan:
+
 Clean Architecture (~21.01 말)
+
 리팩토링 2판 (~21.01 말)
 
 Clean Code (~21.02 중)
