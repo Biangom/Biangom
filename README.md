@@ -11,6 +11,14 @@
 - simple is best
 
 
+- 😄 Plan:
+Clean Architecture (~21.01 말)
+리팩토링 2판 (~21.01 말)
+
+Clean Code (~21.02 중)
+
+
+
 <!--
 **Biangom/Biangom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
