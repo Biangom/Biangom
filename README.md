@@ -11,7 +11,7 @@
 - simple is best
 
 
-- 😄 Plan:
+😄 Plan:
 Clean Architecture (~21.01 말)
 리팩토링 2판 (~21.01 말)
 
