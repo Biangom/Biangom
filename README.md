@@ -15,9 +15,9 @@
 
 Clean Architecture (~21.01 말) (完)
 
-리팩토링 2판 (~21.02 말) (中)
+Clean Code (~21.03 중) (中)
 
-Clean Code (~21.02 중) (中)
+리팩토링 2판 (미룸)
 
 Head First Design Pattern (~21.03 ) (中)
 
